@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+:root {
+    --primary-color: #2F5FFF;
+    --success-color: #4AC000;
+    --warning-color: #F59700;
+    --danger-color: #E01A1A;
+}
